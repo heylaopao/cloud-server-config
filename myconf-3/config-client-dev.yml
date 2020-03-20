@@ -9,3 +9,6 @@ management:
   endpoint:
     health:
       show-details: always
+spring:
+  rabbitmq:
+    host: 192.168.198.129
