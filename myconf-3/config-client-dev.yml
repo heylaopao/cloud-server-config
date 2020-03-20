@@ -1,4 +1,4 @@
-env: dev----1333
+env: dev----
 server:
   port: 17011
 management:
